@@ -8,7 +8,8 @@
   "authorize":[
     {
       "login":"admin",
-      "password": "test"
+      "password": "$2a$10$jGlbxbhVv6wJRBomWA9FHuQ0RHq.E7JWqx9QfXDyP7FOlE7axZ1IO",
+      "role":0
     }
   ],
   "roles":[
