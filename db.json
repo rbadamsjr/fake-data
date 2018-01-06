@@ -10,5 +10,19 @@
       "login":"admin",
       "password": "test"
     }
+  ],
+  "roles":[
+    {
+      "id": 0,
+      "role_name":"SYSTEM_ADMIN"
+    },
+    {
+      "id": 1,
+      "role_name":"FUND_MANAGER"
+    },
+    {
+      "id": 2,
+      "role_name":"ACOUNTANT"
+    }
   ]
 }
