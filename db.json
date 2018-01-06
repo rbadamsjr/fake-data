@@ -5,10 +5,14 @@
       "title": "hello"
     }
   ],
+  "api": [
+    {
   "authorize":[
       {
         "login": "admin",
         "password": "test1"
       }
+    ]
+    }
     ]
 }
