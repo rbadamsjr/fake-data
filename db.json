@@ -7,5 +7,13 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "api":[
+    {
+      "authorize":[
+      {
+        "login": "admin",
+        "password": "test1"
+      }
+  ]
 }
