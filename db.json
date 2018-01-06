@@ -10,6 +10,11 @@
       "login":"admin",
       "password": "$2a$10$jGlbxbhVv6wJRBomWA9FHuQ0RHq.E7JWqx9QfXDyP7FOlE7axZ1IO",
       "role":0
+    },
+    {
+      "login":"accountant1",
+      "password":"$2a$10$PMdElTCSU/tfQ9ed23yJr.9pS06OX3oRAFaodj3rKu/jw3HrhBkHy",
+      "role":2
     }
   ],
   "roles":[
