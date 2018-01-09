@@ -9,12 +9,18 @@
     {
       "login":"admin",
       "password": "$2a$10$jGlbxbhVv6wJRBomWA9FHuQ0RHq.E7JWqx9QfXDyP7FOlE7axZ1IO",
-      "role":0
+      "first_name": "admin",
+      "last_name": "test",
+      "email_address": "admin@test.com",
+      "role_id":0
     },
     {
-      "login":"accountant1",
+      "login":"acct1",
       "password":"$2a$10$PMdElTCSU/tfQ9ed23yJr.9pS06OX3oRAFaodj3rKu/jw3HrhBkHy",
-      "role":2
+      "first_name": "Accountant",
+      "last_name": "test",
+      "email_address": "acct1@test.com",
+      "role_id":2
     }
   ],
   "roles":[
