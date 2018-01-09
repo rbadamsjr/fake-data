@@ -7,6 +7,7 @@
   ],
   "authorize":[
     {
+      "id":21,
       "login":"admin",
       "password": "$2a$10$jGlbxbhVv6wJRBomWA9FHuQ0RHq.E7JWqx9QfXDyP7FOlE7axZ1IO",
       "first_name": "admin",
@@ -15,6 +16,7 @@
       "role_id":0
     },
     {
+      "id":22,
       "login":"acct1",
       "password":"$2a$10$PMdElTCSU/tfQ9ed23yJr.9pS06OX3oRAFaodj3rKu/jw3HrhBkHy",
       "first_name": "Accountant",
